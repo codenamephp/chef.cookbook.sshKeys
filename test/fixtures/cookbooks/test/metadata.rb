@@ -7,4 +7,4 @@ license 'Apache-2.0'
 description 'Cookbook to install php'
 version '1.0.0'
 
-depends 'codenamephp_users'
+depends 'codenamephp_ssh_keys'
