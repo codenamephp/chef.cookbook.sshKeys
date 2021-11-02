@@ -1,5 +1,13 @@
 # Changelog
 
+## [Unreleased](https://github.com/codenamephp/chef.cookbook.sshKeys/tree/HEAD)
+
+[Full Changelog](https://github.com/codenamephp/chef.cookbook.sshKeys/compare/1.0.0...HEAD)
+
+**Merged pull requests:**
+
+- Bump bobheadxi/deployments from 0.6.0 to 0.6.1 [\#3](https://github.com/codenamephp/chef.cookbook.sshKeys/pull/3) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [1.0.0](https://github.com/codenamephp/chef.cookbook.sshKeys/tree/1.0.0) (2021-08-20)
 
 [Full Changelog](https://github.com/codenamephp/chef.cookbook.sshKeys/compare/50cdf0d95500d4e2a008f5d57a00d5f331c5a3ad...1.0.0)
