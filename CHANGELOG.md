@@ -7,6 +7,7 @@
 **Merged pull requests:**
 
 - Bump bobheadxi/deployments from 0.6.0 to 0.6.1 [\#5](https://github.com/codenamephp/chef.cookbook.sshKeys/pull/5) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump tubone24/update\_release from 1.2.0 to 1.3.1 [\#4](https://github.com/codenamephp/chef.cookbook.sshKeys/pull/4) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [1.0.0](https://github.com/codenamephp/chef.cookbook.sshKeys/tree/1.0.0) (2021-08-20)
 
